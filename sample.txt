@@ -1,0 +1,4 @@
+// Copyright (c) 2025 Mukesh Dhadhariya. All rights reserved.
+// Project: Indian Health Care Mission
+// Proprietary — do not copy, distribute, modify, or use without written permission.
+// Contact: mukeshdhadhariya1@gmail.com
