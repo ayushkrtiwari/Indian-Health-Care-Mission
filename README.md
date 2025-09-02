@@ -1,72 +1,50 @@
-<div style="font-family:Inter,system-ui,Segoe UI,Roboto,Helvetica,Arial; 
-            background:linear-gradient(180deg,#071022 0%, #07142a 100%);
-            color:#e6eef6; padding:28px; box-sizing:border-box; max-width:980px; margin:0 auto;">
-  <div style="display:flex; align-items:center; gap:12px;">
-    <div>
-      <h1 style="font-size:28px; margin:0 0 6px 0;">Indian Health Care Mission</h1>
-      <p style="margin:0; color:#94a3b8;">A national initiative to modernize India's healthcare ecosystem using technology and AI.</p>
-    </div>
 
-    <div style="margin-left:auto; display:flex; gap:8px; align-items:center;">
-      <img src="https://img.shields.io/badge/status-draft-orange" alt="status" style="height:20px;">
-      <img src="https://img.shields.io/badge/license-MIT-blue" alt="license" style="height:20px;">
-    </div>
-  </div>
+<div>
+  <h1>Indian Health Care Mission</h1>
 
-  <section style="background:rgba(11,18,32,0.9); border-radius:12px; padding:20px; margin-top:20px; box-shadow:0 10px 30px rgba(2,6,23,0.5);">
-    <div style="font-weight:600; font-size:16px; margin-bottom:8px; color:#e6eef6;">Overview</div>
-    <p style="margin:0 0 12px 0; color:#94a3b8;">
-      The Indian Health Care Mission is a national-level project to strengthen and modernize healthcare across India.
-      We combine secure data platforms, AI-driven decision support, telemedicine and operational tooling to improve
-      access, affordability and outcomes for everyone.
-    </p>
+  <p>National Mission to modernize India's healthcare ecosystem integrating modern technology and AI.</p>
 
-    <div style="font-weight:600; font-size:16px; margin:16px 0 8px 0; color:#e6eef6;">Mission</div>
-    <p style="margin:0 0 12px 0; color:#94a3b8;">
-      Enable equitable, efficient and resilient healthcare by integrating modern technology, standardized data and
-      explainable AI into public health infrastructure and clinical workflows.
-    </p>
 
-    <div style="font-weight:600; font-size:16px; margin:16px 0 8px 0; color:#e6eef6;">Core objectives</div>
-    <p style="margin:0 8px 6px 0; color:#94a3b8;">• Digitize and standardize medical records across public facilities.</p>
-    <p style="margin:0 8px 6px 0; color:#94a3b8;">• Use AI and analytics for early detection, resource planning and epidemic surveillance.</p>
-    <p style="margin:0 8px 6px 0; color:#94a3b8;">• Expand telemedicine and mobile health to underserved regions.</p>
-    <p style="margin:0 8px 6px 0; color:#94a3b8;">• Improve procurement, inventory and supply-chain transparency.</p>
-    <p style="margin:0 8px 0 0; color:#94a3b8;">• Provide decision-support tools to clinicians and administrators.</p>
+  <h2>Overview</h2>
+  <p>The Indian Health Care Mission is a national-level project to strengthen and modernize healthcare across India.
+ We strive for better health facilities, affordable access, ease of process, betterment of services.</p>
 
-    <div style="font-weight:600; font-size:16px; margin:16px 0 8px 0; color:#e6eef6;">Who benefits</div>
-    <p style="margin:0 8px 6px 0; color:#94a3b8;">• Citizens — better access, shorter waits, improved outcomes.</p>
-    <p style="margin:0 8px 6px 0; color:#94a3b8;">• Government & policy makers — data-driven planning & monitoring.</p>
-    <p style="margin:0 8px 6px 0; color:#94a3b8;">• Healthcare providers — operational & clinical decision support.</p>
-    <p style="margin:0 8px 0 0; color:#94a3b8;">• Researchers — standardized, privacy-aware datasets for public health studies.</p>
+  <h2>Mission</h2>
+  <p>Enable equitable, efficient and resilient healthcare by integrating modern technology, standardized data and
+  explainable AI into public health infrastructure and clinical workflows.</p>
 
-    <div style="font-weight:600; font-size:16px; margin:16px 0 8px 0; color:#e6eef6;">Key features</div>
-    <p style="margin:0 8px 6px 0; color:#94a3b8;">• Unified Health Data Platform with privacy-preserving APIs.</p>
-    <p style="margin:0 8px 6px 0; color:#94a3b8;">• AI-assisted triage, risk scoring and explainable models.</p>
-    <p style="margin:0 8px 6px 0; color:#94a3b8;">• Telemedicine & remote-monitoring integrations for rural coverage.</p>
-    <p style="margin:0 8px 0 0; color:#94a3b8;">• Real-time logistics dashboards and audit trails for transparency.</p>
+  <h2>Core objectives</h2>
+  <p>• Digitize and standardize medical records across public facilities.</p>
+  <p>• Use AI and analytics for early detection, resource planning and epidemic surveillance.</p>
+  <p>• Expand telemedicine and mobile health to underserved regions.</p>
+  <p>• Improve procurement, inventory and supply-chain transparency.</p>
+  <p>• Provide decision-support tools to clinicians and administrators.</p>
 
-    <div style="font-weight:600; font-size:16px; margin:16px 0 8px 0; color:#e6eef6;">Technology & AI</div>
-    <p style="margin:0 0 12px 0; color:#94a3b8;">
-      Open, modular architecture using standards (FHIR / HL7), secure APIs, federated learning and explainable ML pipelines
-      to ensure scalability and privacy.
-    </p>
+  <h2>Who benefits</h2>
+  <p>• Citizens — better access, shorter waits, improved outcomes.</p>
+  <p>• Government &amp; policy makers — data-driven planning &amp; monitoring.</p>
+  <p>• Healthcare providers — operational &amp; clinical decision support.</p>
+  <p>• Researchers — standardized, privacy-aware datasets for public health studies.</p>
 
-    <div style="font-weight:600; font-size:16px; margin:16px 0 8px 0; color:#e6eef6;">Getting started</div>
-    <p style="margin:0 0 12px 0; color:#94a3b8;">
-      Clone the repo, read CONTRIBUTING.md and follow the contributor guide. Ensure any datasets or models you add comply
-      with the project's privacy and ethics requirements.
-    </p>
+  <h2>Key features</h2>
+  <p>• Unified Health Data Platform with privacy-preserving APIs.</p>
+  <p>• AI-assisted triage, risk scoring and explainable models.</p>
+  <p>• Telemedicine &amp; remote-monitoring integrations for rural coverage.</p>
+  <p>• Real-time logistics dashboards and audit trails for transparency.</p>
 
-    <div style="font-weight:600; font-size:16px; margin:16px 0 8px 0; color:#e6eef6;">Governance & contact</div>
-    <p style="margin:0 0 6px 0; color:#94a3b8;">
-      Governance docs and partnership details are maintained in the repository. For collaborations please contact the core team
-      via the official project channel.
-    </p>
+  <h2>Getting started</h2>
+  <p>Clone the repo, read CONTRIBUTING.md and follow the contributor guide. Ensure any datasets or models you add
+  comply with the project's privacy and ethics requirements.</p>
 
-    <div style="font-weight:600; font-size:16px; margin:16px 0 8px 0; color:#e6eef6;">License</div>
-    <p style="margin:0 0 6px 0; color:#94a3b8;">The project is released under the MIT License (see LICENSE file).</p>
+  <h2>Governance &amp; contact</h2>
+  <p>Governance docs and partnership details are maintained in the repository. For collaborations please contact the core team via the official project channel.</p>
 
-    <p style="margin-top:18px; color:#94a3b8;">Made with ❤️ to build a healthier India — contributions welcome.</p>
-  </section>
+  <h2>License</h2>
+  <p>The project is released under customised license integrated in every files.</p>
+
+  <p>Made with ♥ to build a healthier India — contributions welcome.</p>
 </div>
+
+
+  
+
